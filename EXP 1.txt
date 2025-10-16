@@ -1,0 +1,19 @@
+#include<stdio.h>
+
+int main()
+{
+    /*
+    Name: KHAN MOHAMMED FAIZ RASHID
+    UIN: 251P015
+    Roll No: 14
+    Division: C
+    Class: Comps_1
+    */
+
+    printf("Name: KHAN MOHHAMED FAIZ RASHID \n");
+    printf("Age: 18 Years \n");
+    printf("Class: Computer Science 1 \n");
+    printf("UIN: 251P015");
+
+    return 0;
+}
